@@ -38,12 +38,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
-![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachi-narkar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-narkar&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prachi-narkar)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:prachinarkar18@gmail.com)
