@@ -16,15 +16,7 @@ Here are some ideas to get you started:
 -->
 
  # I'm Prachi Narkar
-🌟 **MCA Student** | **Tech Enthusiast**
-
----
-
-## 🚀 About Me
-- 🌱 Learning: Machine Learning & Data Science
-- 💡 Interests: Problem-solving, Data Visualization, and AI-powered tools
-- 🎯 Goal: To contribute to impactful open-source projects
-
+ 
 ---
 
 ## 🛠️ Skills
