@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ## 📂 Featured Projects
 - 🔗 [ResumeIQ](https://github.com/prachi-narkar/ResumeIQ): AI-powered resume screening tool
+- 🔗 [Art Gallery Management System](https://github.com/its-prachi18/Art-Gallery-Management-System): Web-based platform to automate the operations of an art gallery
+- 🔗 [Battle City Game](https://github.com/its-prachi18/Battle-City-Game): Strategic tank battle game
 
 ---
 
