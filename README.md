@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ---
 
 ## 🛠️ Skills
-- **Languages:** Python, Java, C++
-- **Tools & Frameworks:** Power BI, Streamlit, MySQL
+- **Languages:** Python, Java, C, C++, HTML, CSS, JavaSCript
+- **Tools & Frameworks:** Power BI, Streamlit, MySQL, GItHub, Postman
 
 ---
 
